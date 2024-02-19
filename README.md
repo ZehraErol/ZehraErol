@@ -1,6 +1,6 @@
 ![banner resmi](https://github.com/ZehraErol/ZehraErol/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Zehra Erol</h1>
-<h3 align="center">Full Stack Developer from Türkiye</h3>
+<h3 align="center">Full Stack Java Developer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
